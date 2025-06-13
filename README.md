@@ -2,7 +2,7 @@
 
 # EDI in Maths Support – Cardiff University
 
-Welcome to the official repository for the **Equality, Diversity, and Inclusion (EDI)** research project conducted in collaboration with the **School of Mathematics at Cardiff University**. This project investigates how EDI is reflected within the *Maths Support* services, with a focus on identifying gaps and proposing data-driven improvements.
+Welcome to the repository for the **Equality, Diversity, and Inclusion (EDI)** research project conducted in collaboration with the **School of Mathematics at Cardiff University**. This project investigates how EDI is reflected within the *Maths Support* services, with a focus on identifying gaps and proposing data-driven improvements.
 
 ---
 
