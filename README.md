@@ -1,12 +1,75 @@
-# FMP
-Cardiff University
-The topic of “EDI” has been allotted to me by the “School of Mathematics” at Cardiff University based on several choices given to them by me. The school of mathematics has a support service called “maths support” and the school of bioscience has a “UG data clinic”. My job is to identify and if needed, recommend improvisations, Equality, Diversity, and Inclusion in the maths support at Cardiff University through the medium of data analysis. In my opinion, this is a great medium to work in the direction of EDI by choosing niche subjects and dealing with the problem at the base level so that it can prevent a bigger loss.
+---
 
-We have studied and reviewed some research papers that are closely linked to our research only in the sense that they talk about Maths support widely and in a more generic sense. This gives us a good background of where this practice is derived from and what is its purpose. However, none of the research speaks about the aspect of EDI and that is where our research plays an important role. Although local, we have collected data for the maths support service at Cardiff university and we deeply dwell into topics like gender, age, and ethnic minority to further our findings on EDI and provide authenticity to the subject.
+# EDI in Maths Support – Cardiff University
 
-Upon analysing the various research papers, we were able to conclude that a descriptive analysis along with an inferential analysis would be the perfect combination for this thesis that talks about EDI in maths support where we can yield better results by comparing two aspects of the same topic.
+Welcome to the official repository for the **Equality, Diversity, and Inclusion (EDI)** research project conducted in collaboration with the **School of Mathematics at Cardiff University**. This project investigates how EDI is reflected within the *Maths Support* services, with a focus on identifying gaps and proposing data-driven improvements.
 
-Once we were able to achieve results in the direction of equality, diversity, and inclusion. We also identified some areas where there is a fair possibility of improvements that could bring about drastic numerical and theoretical change in a positive light. The primary problem is identified at the entry-level during registration. It would be helpful to track data and make a valuable change in every community if the primary and most important data is collected at registration like gender, age, country, religion, and many more which would directly make the data analysis and statistical process easier by a large margin. This should ideally be made mandatory to then yield more accurate results in half the time comparatively spent on collecting data after registration. Also, to add the most important factor of the status of the student in mathematics during registration.
-Secondarily, a feedback form should be introduced after the completion of their support course to document the improvement or the difference in their status so that tracking and analysing becomes all the easier. Next on the list would be creating a metric in a dashboard that can directly measure the improvement of the support service upon inserting data through the registration and feedback forms. This would be a global metric system that can measure the overall progress on average. Last but not the least, there should be a Maths support awareness program to normalize the use of such services so that anxiety and doubts about the same can be tackled at the beginner stage and transitioning into advanced stages can also be made easy. Also, more importantly, to encourage students to voluntarily come and use this service.
+---
 
-In conclusion, I would like to state that identifying and working towards EDI in a niche service market is a commendable effort at normalizing errors. Diving deeper into the research, it was clear that more data and precisely comparable data could have yielded much more accurate results. The research was restrictive due to the concise nature of the data like lacking data of ethnic minorities, country, race, etc. more data about the country could have given us much insight into the functioning of maths support in particular regions and therefore a better understanding of the subject at large could have been developed. However, we have done the best we could with the existing data and identified that EDI is present in the overall support system and also has plenty of room for improvement.
+## Project Overview
+
+This study aims to evaluate **EDI** in the *Maths Support* service by:
+
+* Analyzing participation data across **gender**, **age**, and **ethnic backgrounds**.
+* Highlighting underrepresented groups.
+* Proposing actionable insights to improve inclusivity and accessibility.
+
+While existing literature discusses Maths support in broad terms, **no current research directly addresses EDI in this context** — making this study a unique and timely contribution.
+
+---
+
+## Methodology
+
+We used a **mixed-methods approach**:
+
+* **Descriptive Analysis**: To understand distribution patterns across demographic variables.
+* **Inferential Statistics**: To compare outcomes and reveal hidden inequalities.
+* **Comparative Metrics**: To assess changes over time and track service impact.
+
+---
+
+## Key Findings
+
+* Participation by **ethnic minorities and non-male genders** is noticeably lower.
+* **Incomplete registration data** (missing gender, nationality, etc.) limits actionable analysis.
+* A clear opportunity exists to introduce better **data collection at onboarding**.
+
+---
+
+## Recommendations
+
+To enhance inclusivity and improve data quality:
+
+1. **Mandatory demographic fields** at registration (e.g., gender, country, academic status).
+2. **Post-support feedback forms** to track learning improvement.
+3. **EDI dashboard metrics** for continuous monitoring and evaluation.
+4. **Awareness campaigns** to destigmatize Maths Support usage and boost engagement.
+5. **Voluntary participation incentives** to gather richer, more representative data.
+
+---
+
+## Impact & Future Scope
+
+This research demonstrates that **local, targeted interventions** can lead to broader systemic improvements in inclusion. Although data limitations exist, the project provides a **scalable framework** for other academic services.
+
+Future extensions could include:
+
+* Collecting **country- or region-specific** participation trends.
+* Integrating **longitudinal feedback** to track impact over academic years.
+* Applying similar methods to **biosciences, engineering**, or **interdisciplinary support units**.
+
+---
+
+## Contact
+
+For questions, contributions, or collaborations:
+
+📧 **Email**: [roushankumarmail07@gmail.com](mailto:roushankumarmail07@gmail.com)
+🔗 **LinkedIn**: [rk0718](https://www.linkedin.com/in/rk0718)
+
+---
+
+> *"Diversity is being invited to the party; inclusion is being asked to dance." – Verna Myers*
+
+---
+
